@@ -13,6 +13,10 @@ Struktúra:
 
 Minden mappában egy kidolgozott feladat szerepel, két formátumban. A `.html` kiterjesztésű fájl megnyitásával böngészőben lehet megtekinten a kidolgozott kódot. A futtatható verziót a `.ipynb` fájlok tartalmazzák. Ezek ún. notebook fájlok, amelyeket *Jupyter Notebook* vagy *Jupyterlab* felületen lehet megnyitni (segédlet ezen csomagok telepítéséhez [itt](https://jupyter.org/install)).
 
-A segédletet készítette:
+A segédletet összeállította:
 Piri Barnabás (barnabas.piri@mm.bme.hu)
 BME GPK, Műszaki Mechanikai Tanszék
+
+Felhasznált forrás:
+[Python segédlet szilárdságtani pédákon keresztül](https://github.com/AMSZ-BMEGPK/SziltanPython), Alkalmazott Mechanika Szakosztály
+BME GPK
