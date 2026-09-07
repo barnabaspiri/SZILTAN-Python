@@ -18,5 +18,4 @@ Piri Barnabás (barnabas.piri@mm.bme.hu)
 BME GPK, Műszaki Mechanikai Tanszék
 
 Felhasznált forrás:
-[Python segédlet szilárdságtani pédákon keresztül](https://github.com/AMSZ-BMEGPK/SziltanPython), Alkalmazott Mechanika Szakosztály
-BME GPK
+[Python segédlet szilárdságtani pédákon keresztül](https://github.com/AMSZ-BMEGPK/SziltanPython), Alkalmazott Mechanika Szakosztály, BME GPK
